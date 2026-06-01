@@ -11,3 +11,6 @@
 
 ### Game Ended
 ![alt text](Assets/{3D937029-6BB2-43AC-845F-FDF7375E2300}.png)
+
+### Summary what this project is all about
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/9fd49594-a007-4f25-b92a-78ac4cc3b50d" />
