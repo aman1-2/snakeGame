@@ -1,5 +1,9 @@
 # Snake Game
 
+### Preview
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/16b44bb5-ebdf-4732-b6f4-5ef972435f5d" />
+
+
 ### Game Arena
 ![alt text](Assets/{E7D21B75-75BF-4C4B-A844-345C7A894EAE}.png)
 
